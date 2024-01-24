@@ -35,7 +35,7 @@ const CreateForm = () => {
 
   return (
     <div className="h-screen items-center justify-center flex">
-      <form className="border-2 border-gray-500">
+      <form className="">
         <div className="email-parent mx-2 my-2">
           <p>Email:</p>
           <input value={email} onChange={handleEmailChange} placeholder="john.doe@example.com" className="border-2 border-gray-300 rounded-md" />
