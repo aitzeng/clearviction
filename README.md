@@ -1,5 +1,7 @@
 ## ClearViction Challenge
 
+This is the challenge from ClearViction to submit applicant's email and github repo URL.
+
 To run:
 
 ```bash
